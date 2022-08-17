@@ -28,7 +28,3 @@
 - .trigger() - trigger an event on a DOM element
  
 - cy.scrolllTo() - scroll the window or element to a position
-
-
-
-### You can delete fixtures
